@@ -1,0 +1,77 @@
+#range-slider .rc-slider-track {
+    background-color: #FF70D2; /* This sets the track color to yellow */
+}
+
+#range-slider {
+    background-color: #dfdae6; /* This sets the background color to red */
+    height: 1%; /* This sets the height of the object */
+    top: 10%;
+    position : "relative"
+}
+
+#range-slider .rc-slider-handle {
+    background-color: rgb(255, 0, 187) !important;
+    border-color: #FC8EAC !important;
+}
+
+
+
+
+  
+
+  #scatter-plot {
+    position: relative;
+    top:10%;
+    height: 40vh;
+    width: 100%;
+    z-index: 1;
+}
+
+
+  .range-slider-engine .rc-slider-track {
+    background-color: #FF70D2 !important;
+    
+}
+
+.range-slider-engine .rc-slider-handle {
+    background-color: rgb(255, 0, 187) !important;
+    border-color: rgb(255, 133, 231) !important;
+}
+
+.range-slider-engine .rc-slider-handle:hover,
+.range-slider-engine .rc-slider-handle:active {
+    border-color: rgb(95, 6, 83) !important;
+}
+
+
+
+.lightblue-background {
+    background-color: rgb(74, 5, 79);
+}
+
+
+
+
+body{
+    overflow-x: hidden !important;
+}
+
+
+.my-container {
+    background-color: #FC8EAC; /* This is just a sample blue color, you can choose any shade of blue */
+}
+
+
+
+.donut_chart1 {
+    position: relative;
+    margin: 0 !important;
+    width: 100% !important;
+    height: 10vh !important;
+}
+
+
+
+     
+       
+
