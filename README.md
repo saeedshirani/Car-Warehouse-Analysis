@@ -29,19 +29,17 @@ Welcome to the Warehouse Dashboard repository! This repository contains tools fo
 ##  Requirements
 
 
-- **`Python`**
-- **`Pandas`**
-- **`Numpy`**
-- **`Matplotlib`**
-- **`Dash`**
-- **`Plotly`**
-- **`HTML`**
-- **`CSS`**
-
+| Tool | Icon |
+|---|---|
+| **`Python`** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Solide-State-1-Lab/assets/77902443/93f61ef1-817b-4866-ad40-b0334c345cae" width="150px"/> |
+| **`Pandas`** | <img alt="Go SDK" src=https://i.ibb.co/WG5tdTW/Pandas-logo-svg.png width="150px"/>  | 
+| **`Numpy`** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Car-Warehouse-Analysis/assets/77902443/750dd57e-b369-4df2-9946-e9cf7bd8164c" width="150px"/> |
+| **`Matplotlib`** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Car-Warehouse-Analysis/assets/77902443/c8bab50a-f894-49d5-9f6b-15186c5b6802" width="150px"/> |
+| **`Dash`** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Car-Warehouse-Analysis/assets/77902443/7c159d7e-d87e-453a-9619-beac03694fc6" width="150px"/> |
+| **`Plotly`** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Car-Warehouse-Analysis/assets/77902443/346944fa-d196-4ed9-b0f6-fff28049365c" width="150px"/> |
+| **`HTML / CSS`** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Car-Warehouse-Analysis/assets/77902443/96e4234a-dbec-4c56-be29-5e7cca955ec7" width="150px"/> |
 
 #### Ensure you have the necessary packages installed as listed in the `requirements.txt` file in the Dashboard folder.
-
-
 
 ## Usage
 1. Navigate to the Dashboard folder.
