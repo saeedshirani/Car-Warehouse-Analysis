@@ -56,7 +56,7 @@ Welcome to the Warehouse Dashboard repository! This repository contains tools fo
 ## 🔗Dataset Link
 You can download the dataset of this project from the following link: [Car Sale Dataset](https://www.kaggle.com/datasets/smritisingh1997/car-salescsv).
 
-also you can download it from my github: [Car Sale Dataset](https://github.com/saeedshiranii/Car-Warehouse-Analysis/blob/main/EDA/CAR_SALE_DATA.csv).
+also you can download it from my GitHub: [Car Sale Dataset](https://github.com/saeedshiranii/Car-Warehouse-Analysis/blob/main/EDA/CAR_SALE_DATA.csv).
 
 
 
@@ -66,7 +66,7 @@ also you can download it from my github: [Car Sale Dataset](https://github.com/s
 ## Contact
 
 If you have any suggestions or feedback, you can reach me via email at saeedshirani7878@gmail.com
-or visit my LinkedIn profile:[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-shirani)
+or visit my LinkedIn profile:   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-shirani)
 
 
 
