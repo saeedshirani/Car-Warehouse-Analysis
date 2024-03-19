@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 
 # reading data
-data = pd.read_csv("CAR_SALE_DATA.csv")
+data = pd.read_csv("./CAR_SALE_DATA.csv")
 data.drop_duplicates(inplace=True)
 data.dropna(inplace=True)
 
